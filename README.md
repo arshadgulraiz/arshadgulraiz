@@ -88,7 +88,7 @@ I believe automation should not only save time — it should create clarity, con
 
 - LinkedIn: [Gulraiz Arshad](https://www.linkedin.com/in/muhammad-gulraiz-arshad-khan-b284b81a6)  
 - Portfolio: Coming soon  
-- Email: arshadgulraiz8@gmail.com  
+- Email: [arshadgulraiz8@gmail.com](mailto:arshadgulraiz8@gmail.com)  
 
 ---
 
