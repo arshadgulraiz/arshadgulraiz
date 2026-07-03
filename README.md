@@ -5,7 +5,7 @@ CRM & Automation Specialist | AI Workflow Builder | Digital Systems Creator
 </h3>
 
 <p align="center">
-I build intelligent CRM, automation, and AI-powered workflow systems that help businesses turn manual operations into clean, scalable digital processes.
+I build intelligent CRM, automation, and AI-powered workflow systems that turn manual business operations into clean, scalable digital processes.
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ I believe automation should not only save time — it should create clarity, con
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/muhammad-gulraiz-arshad-khan-b284b81a6  
+- LinkedIn: [Gulraiz Arshad](https://www.linkedin.com/in/muhammad-gulraiz-arshad-khan-b284b81a6)  
 - Portfolio: Coming soon  
 - Email: arshadgulraiz8@gmail.com  
 
